@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 alex bought a new brown dog
 alex bought a yellow cat
 alex bought a dolphin
 alex killed a shark
 alex gave you an A grade for this pet website
+=======
+alex bought a new brownish dog.
+alex bought a duck!
+alex bought a rainbow cat!!!! Must see!
+alex bought a parrot
+>>>>>>> a6d0e7a012082f4c1587a1b62a9c5d97acbc3b4e
